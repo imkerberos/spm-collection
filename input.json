@@ -53,6 +53,7 @@
     { "url": "https://github.com/ninjaprox/NVActivityIndicatorView.git" },
     { "url": "https://github.com/BenEmdon/CenteredCollectionView.git" },
     { "url": "https://github.com/WenchaoD/FSPagerView.git" },
-    { "url": "https://github.com/yonat/RadioGroup.git" }
+    { "url": "https://github.com/yonat/RadioGroup.git" },
+    { "url": "https://github.com/Cocoanetics/DTCoreText" }
   ]
 }
